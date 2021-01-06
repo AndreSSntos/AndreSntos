@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="avatar.png" min-width="400px" max-width="400px" width="400px" align="right" alt="avatar">
 
 <p align="left"> 
   Opa, meu nome é André, sou um jovem desenvolvedor <strong>fullstack</strong>, mais focado no frontend. <br>
