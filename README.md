@@ -1,4 +1,4 @@
-<img src="eu.png" min-width="400px" max-width="400px" width="400px" align="right" alt="avatar">
+<img src="eu.png" min-width="400px" max-width="200px" width="200px" align="right" alt="avatar">
 
 <p align="left"> 
   <h2>Opa, meu nome é André, sou um jovem desenvolvedor <strong>fullstack</strong>, mais focado no frontend.</h2> 
